@@ -1,3 +1,4 @@
+#!/bin/sh
 ###############
 # Scripted By: Ismail9875
 # github/ismail9875
